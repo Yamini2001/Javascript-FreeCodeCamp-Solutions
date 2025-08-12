@@ -40,7 +40,8 @@ Some of the notable projects I built during the course:
 7. **Random Quote Machine** – Fetching and displaying random quotes  
 8. **URL Shortener Microservice** – Backend API with MongoDB  
 9. **Exercise Tracker** – CRUD application for workouts  
-10. **Personal Portfolio Website** – Showcasing all projects  
+10. **Personal Portfolio Website** – Showcasing all projects
+11. **Email Masker Tool** - An email masker hides part of an email to protect privacy.
 
 *(Each project folder in this repo contains its source code and instructions to run locally.)*
 
