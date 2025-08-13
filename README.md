@@ -42,6 +42,7 @@ Some of the notable projects I built during the course:
 9. **Exercise Tracker** – CRUD application for workouts  
 10. **Personal Portfolio Website** – Showcasing all projects
 11. **Email Masker Tool** - An email masker hides part of an email to protect privacy.
+12. **Lunch Picker Program** - Manage the lunch options.
 
 *(Each project folder in this repo contains its source code and instructions to run locally.)*
 
