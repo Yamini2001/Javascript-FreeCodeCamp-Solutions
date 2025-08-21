@@ -15,6 +15,7 @@ The **Full Stack Developer** program from freeCodeCamp is a comprehensive curric
 - **Quality Assurance**
 - **Information Security**
 - **Scientific Computing & Data Analysis**
+- **Analysis of Algorithms**
 
 ---
 
