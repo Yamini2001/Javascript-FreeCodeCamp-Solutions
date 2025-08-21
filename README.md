@@ -15,6 +15,7 @@ The **Full Stack Developer** program from freeCodeCamp is a comprehensive curric
 - **Quality Assurance**
 - **Information Security**
 - **Scientific Computing & Data Analysis**
+- **Analysis of Algorithms**
 
 ---
 
@@ -43,7 +44,7 @@ Some of the notable projects I built during the course:
 10. **Personal Portfolio Website** – Showcasing all projects
 11. **Email Masker Tool** - An email masker hides part of an email to protect privacy.
 12. **Lunch Picker Program** - Manage the lunch options.
-13. **Build Fprtune Teller** - Generate random number for selected fortune.
+13. **Build Fortune Teller** - Generate random number for selected fortune.
 
 *(Each project folder in this repo contains its source code and instructions to run locally.)*
 
